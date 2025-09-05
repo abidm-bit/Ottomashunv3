@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression" verbose="1" >
+    <test name="Nopackage" >
+        <classes>
+<!--            <class name="NoPackageTest" />-->
+<!--            <class name="test.sample.ParameterSample"/>-->
+        </classes>
+    </test>
+
+</suite>
